@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>木安竹生</title>
+      <link>https://shimiyzhang.github.io/blog</link>
+      <description>当你的才华还不足以撑起你的野心时，你就应该静下心努力学习。</description>
+      <language>en-us</language>
+      <managingEditor>916406821@qq.com (Zhang Shumeng)</managingEditor>
+      <webMaster>916406821@qq.com (Zhang Shumeng)</webMaster>
+      <lastBuildDate>Mon, 20 Feb 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://shimiyzhang.github.io/tags/gis/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://shimiyzhang.github.io/blog/Construct-a-simple-polygon-from-a-known-array-of-coordinates</guid>
+    <title>根据已知坐标数组构造简单多边形</title>
+    <link>https://shimiyzhang.github.io/blog/Construct-a-simple-polygon-from-a-known-array-of-coordinates</link>
+    <description>给定平面中n个点所组成的集合，将它们连接起来形成一条简单的封闭路径。</description>
+    <pubDate>Mon, 20 Feb 2023 00:00:00 GMT</pubDate>
+    <author>916406821@qq.com (Zhang Shumeng)</author>
+    <category>JavaScript</category><category>GIS</category>
+  </item>
+
+    </channel>
+  </rss>

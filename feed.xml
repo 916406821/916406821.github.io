@@ -1,0 +1,84 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>木安竹生</title>
+      <link>https://shimiyzhang.github.io/blog</link>
+      <description>当你的才华还不足以撑起你的野心时，你就应该静下心努力学习。</description>
+      <language>en-us</language>
+      <managingEditor>916406821@qq.com (Zhang Shumeng)</managingEditor>
+      <webMaster>916406821@qq.com (Zhang Shumeng)</webMaster>
+      <lastBuildDate>Sat, 25 Feb 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://shimiyzhang.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://shimiyzhang.github.io/blog/Automatically-deploy-Nextjs-applications-using-Github-Actions</guid>
+    <title>使用Github Actions自动打包部署NextJS应用</title>
+    <link>https://shimiyzhang.github.io/blog/Automatically-deploy-Nextjs-applications-using-Github-Actions</link>
+    <description>打包部署博客是一个重复机械的劳动，因此我想到使用Github Actions自动化整个流程。</description>
+    <pubDate>Sat, 25 Feb 2023 00:00:00 GMT</pubDate>
+    <author>916406821@qq.com (Zhang Shumeng)</author>
+    <category>Git</category><category>NextJS</category>
+  </item>
+
+  <item>
+    <guid>https://shimiyzhang.github.io/blog/Characters-and-strings-in-Java</guid>
+    <title>Java中的字符和字符串</title>
+    <link>https://shimiyzhang.github.io/blog/Characters-and-strings-in-Java</link>
+    <description>在Java中，字符和字符串是两个不同的类型。字符类型char，字符串类型String。</description>
+    <pubDate>Wed, 15 Mar 2023 00:00:00 GMT</pubDate>
+    <author>916406821@qq.com (Zhang Shumeng)</author>
+    <category>Java</category>
+  </item>
+
+  <item>
+    <guid>https://shimiyzhang.github.io/blog/Common-JavaScript-snippets</guid>
+    <title>常用的JavaScript代码片段</title>
+    <link>https://shimiyzhang.github.io/blog/Common-JavaScript-snippets</link>
+    <description>列举一下前端开发中常用的JavaScript代码片段，方便今后复习查阅。</description>
+    <pubDate>Fri, 24 Feb 2023 00:00:00 GMT</pubDate>
+    <author>916406821@qq.com (Zhang Shumeng)</author>
+    <category>JavaScript</category>
+  </item>
+
+  <item>
+    <guid>https://shimiyzhang.github.io/blog/Construct-a-simple-polygon-from-a-known-array-of-coordinates</guid>
+    <title>根据已知坐标数组构造简单多边形</title>
+    <link>https://shimiyzhang.github.io/blog/Construct-a-simple-polygon-from-a-known-array-of-coordinates</link>
+    <description>给定平面中n个点所组成的集合，将它们连接起来形成一条简单的封闭路径。</description>
+    <pubDate>Mon, 20 Feb 2023 00:00:00 GMT</pubDate>
+    <author>916406821@qq.com (Zhang Shumeng)</author>
+    <category>JavaScript</category><category>GIS</category>
+  </item>
+
+  <item>
+    <guid>https://shimiyzhang.github.io/blog/Git-Commit-message-specification</guid>
+    <title>Git Commit message编写指南</title>
+    <link>https://shimiyzhang.github.io/blog/Git-Commit-message-specification</link>
+    <description>在之前开发项目时，一直没有一个明确的Git提交规范，今天简单记录一下，让自己养成规范开发的习惯。</description>
+    <pubDate>Fri, 26 May 2023 00:00:00 GMT</pubDate>
+    <author>916406821@qq.com (Zhang Shumeng)</author>
+    <category>Git</category>
+  </item>
+
+  <item>
+    <guid>https://shimiyzhang.github.io/blog/String-addition-special-handling</guid>
+    <title>为字符串中指定位置的字符添加特殊处理</title>
+    <link>https://shimiyzhang.github.io/blog/String-addition-special-handling</link>
+    <description>今天遇到一个关于JavaScript字符串的问题，我正好有尝试写博客的打算，所以就在此记录一下。</description>
+    <pubDate>Fri, 17 Feb 2023 00:00:00 GMT</pubDate>
+    <author>916406821@qq.com (Zhang Shumeng)</author>
+    <category>JavaScript</category>
+  </item>
+
+  <item>
+    <guid>https://shimiyzhang.github.io/blog/Traversal-method-of-binary-tree</guid>
+    <title>二叉树遍历算法</title>
+    <link>https://shimiyzhang.github.io/blog/Traversal-method-of-binary-tree</link>
+    <description>对于二叉树，有深度遍历和广度遍历，深度遍历有前序、中序以及后序三种遍历方法，广度遍历即我们平常所说的层次遍历。</description>
+    <pubDate>Mon, 06 Mar 2023 00:00:00 GMT</pubDate>
+    <author>916406821@qq.com (Zhang Shumeng)</author>
+    <category>JavaScript</category><category>数据结构</category>
+  </item>
+
+    </channel>
+  </rss>

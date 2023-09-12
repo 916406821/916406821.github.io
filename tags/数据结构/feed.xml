@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>木安竹生</title>
+      <link>https://shimiyzhang.github.io/blog</link>
+      <description>当你的才华还不足以撑起你的野心时，你就应该静下心努力学习。</description>
+      <language>en-us</language>
+      <managingEditor>916406821@qq.com (Zhang Shumeng)</managingEditor>
+      <webMaster>916406821@qq.com (Zhang Shumeng)</webMaster>
+      <lastBuildDate>Mon, 06 Mar 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://shimiyzhang.github.io/tags/数据结构/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://shimiyzhang.github.io/blog/Traversal-method-of-binary-tree</guid>
+    <title>二叉树遍历算法</title>
+    <link>https://shimiyzhang.github.io/blog/Traversal-method-of-binary-tree</link>
+    <description>对于二叉树，有深度遍历和广度遍历，深度遍历有前序、中序以及后序三种遍历方法，广度遍历即我们平常所说的层次遍历。</description>
+    <pubDate>Mon, 06 Mar 2023 00:00:00 GMT</pubDate>
+    <author>916406821@qq.com (Zhang Shumeng)</author>
+    <category>JavaScript</category><category>数据结构</category>
+  </item>
+
+    </channel>
+  </rss>

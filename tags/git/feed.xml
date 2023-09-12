@@ -1,0 +1,34 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>木安竹生</title>
+      <link>https://shimiyzhang.github.io/blog</link>
+      <description>当你的才华还不足以撑起你的野心时，你就应该静下心努力学习。</description>
+      <language>en-us</language>
+      <managingEditor>916406821@qq.com (Zhang Shumeng)</managingEditor>
+      <webMaster>916406821@qq.com (Zhang Shumeng)</webMaster>
+      <lastBuildDate>Sat, 25 Feb 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://shimiyzhang.github.io/tags/git/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://shimiyzhang.github.io/blog/Automatically-deploy-Nextjs-applications-using-Github-Actions</guid>
+    <title>使用Github Actions自动打包部署NextJS应用</title>
+    <link>https://shimiyzhang.github.io/blog/Automatically-deploy-Nextjs-applications-using-Github-Actions</link>
+    <description>打包部署博客是一个重复机械的劳动，因此我想到使用Github Actions自动化整个流程。</description>
+    <pubDate>Sat, 25 Feb 2023 00:00:00 GMT</pubDate>
+    <author>916406821@qq.com (Zhang Shumeng)</author>
+    <category>Git</category><category>NextJS</category>
+  </item>
+
+  <item>
+    <guid>https://shimiyzhang.github.io/blog/Git-Commit-message-specification</guid>
+    <title>Git Commit message编写指南</title>
+    <link>https://shimiyzhang.github.io/blog/Git-Commit-message-specification</link>
+    <description>在之前开发项目时，一直没有一个明确的Git提交规范，今天简单记录一下，让自己养成规范开发的习惯。</description>
+    <pubDate>Fri, 26 May 2023 00:00:00 GMT</pubDate>
+    <author>916406821@qq.com (Zhang Shumeng)</author>
+    <category>Git</category>
+  </item>
+
+    </channel>
+  </rss>

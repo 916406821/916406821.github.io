@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://shimiyzhang.github.io/about</loc>
+  </url>
+
+  <url>
+    <loc>https://shimiyzhang.github.io</loc>
+  </url>
+
+  <url>
+    <loc>https://shimiyzhang.github.io/projects</loc>
+  </url>
+
+  <url>
+    <loc>https://shimiyzhang.github.io/tags</loc>
+  </url>
+
+  <url>
+    <loc>https://shimiyzhang.github.io/tags/gis</loc>
+  </url>
+
+  <url>
+    <loc>https://shimiyzhang.github.io/tags/git</loc>
+  </url>
+
+  <url>
+    <loc>https://shimiyzhang.github.io/tags/java</loc>
+  </url>
+
+  <url>
+    <loc>https://shimiyzhang.github.io/tags/javascript</loc>
+  </url>
+
+  <url>
+    <loc>https://shimiyzhang.github.io/tags/nextjs</loc>
+  </url>
+
+  <url>
+    <loc>https://shimiyzhang.github.io/tags/数据结构</loc>
+  </url>
+
+  <url>
+    <loc
+      >https://shimiyzhang.github.io/blog/Automatically-deploy-Nextjs-applications-using-Github-Actions</loc
+    >
+  </url>
+
+  <url>
+    <loc>https://shimiyzhang.github.io/blog/Characters-and-strings-in-Java</loc>
+  </url>
+
+  <url>
+    <loc>https://shimiyzhang.github.io/blog/Common-JavaScript-snippets</loc>
+  </url>
+
+  <url>
+    <loc
+      >https://shimiyzhang.github.io/blog/Construct-a-simple-polygon-from-a-known-array-of-coordinates</loc
+    >
+  </url>
+
+  <url>
+    <loc>https://shimiyzhang.github.io/blog/Git-Commit-message-specification</loc>
+  </url>
+
+  <url>
+    <loc>https://shimiyzhang.github.io/blog/String-addition-special-handling</loc>
+  </url>
+
+  <url>
+    <loc>https://shimiyzhang.github.io/blog/Traversal-method-of-binary-tree</loc>
+  </url>
+</urlset>
