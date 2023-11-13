@@ -17,6 +17,10 @@
   </url>
 
   <url>
+    <loc>https://shimiyzhang.github.io/tags/ant-design</loc>
+  </url>
+
+  <url>
     <loc>https://shimiyzhang.github.io/tags/gis</loc>
   </url>
 
@@ -37,6 +41,10 @@
   </url>
 
   <url>
+    <loc>https://shimiyzhang.github.io/tags/react</loc>
+  </url>
+
+  <url>
     <loc>https://shimiyzhang.github.io/tags/数据结构</loc>
   </url>
 
@@ -52,6 +60,12 @@
 
   <url>
     <loc>https://shimiyzhang.github.io/blog/Common-JavaScript-snippets</loc>
+  </url>
+
+  <url>
+    <loc
+      >https://shimiyzhang.github.io/blog/Considerations-for-using-Ant-Design-components-during-development</loc
+    >
   </url>
 
   <url>

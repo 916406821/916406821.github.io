@@ -41,6 +41,16 @@
   </item>
 
   <item>
+    <guid>https://shimiyzhang.github.io/blog/Considerations-for-using-Ant-Design-components-during-development</guid>
+    <title>在项目开发中使用 ant design 组件的注意事项</title>
+    <link>https://shimiyzhang.github.io/blog/Considerations-for-using-Ant-Design-components-during-development</link>
+    <description>记录在开发过程中使用 ant design 组件需要注意的细节和遇到的问题，以及相应的解决方案。</description>
+    <pubDate>Wed, 08 Nov 2023 00:00:00 GMT</pubDate>
+    <author>916406821@qq.com (Zhang Shumeng)</author>
+    <category>react</category><category>ant design</category>
+  </item>
+
+  <item>
     <guid>https://shimiyzhang.github.io/blog/Construct-a-simple-polygon-from-a-known-array-of-coordinates</guid>
     <title>根据已知坐标数组构造简单多边形</title>
     <link>https://shimiyzhang.github.io/blog/Construct-a-simple-polygon-from-a-known-array-of-coordinates</link>
