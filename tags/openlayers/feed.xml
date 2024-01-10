@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>木安竹生</title>
+      <title>SHIMIY</title>
       <link>https://shimiyzhang.github.io/blog</link>
       <description>当你的才华还不足以撑起你的野心时，你就应该静下心努力学习。</description>
       <language>en-us</language>
-      <managingEditor>916406821@qq.com (Zhang Shumeng)</managingEditor>
-      <webMaster>916406821@qq.com (Zhang Shumeng)</webMaster>
+      <managingEditor>916406821@qq.com (Shimiy)</managingEditor>
+      <webMaster>916406821@qq.com (Shimiy)</webMaster>
       <lastBuildDate>Wed, 15 Nov 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://shimiyzhang.github.io/tags/openlayers/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -16,7 +16,7 @@
     <link>https://shimiyzhang.github.io/blog/React-OpenLayers-development-record</link>
     <description>记录使用 React + Openlayers 开发项目中需要记录的细节和遇到的问题。</description>
     <pubDate>Wed, 15 Nov 2023 00:00:00 GMT</pubDate>
-    <author>916406821@qq.com (Zhang Shumeng)</author>
+    <author>916406821@qq.com (Shimiy)</author>
     <category>react</category><category>openlayers</category>
   </item>
 
