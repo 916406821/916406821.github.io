@@ -71,6 +71,16 @@
   </item>
 
   <item>
+    <guid>https://shimiyzhang.github.io/blog/Learn-typescript-type-assertion</guid>
+    <title>TypeScript 的类型断言</title>
+    <link>https://shimiyzhang.github.io/blog/Learn-typescript-type-assertion</link>
+    <description>学习TypeScript类型断言的使用技巧</description>
+    <pubDate>Thu, 11 Jan 2024 00:00:00 GMT</pubDate>
+    <author>916406821@qq.com (Shimiy)</author>
+    <category>TypeScript</category>
+  </item>
+
+  <item>
     <guid>https://shimiyzhang.github.io/blog/React-OpenLayers-development-record</guid>
     <title>React + Openlayers 开发记录</title>
     <link>https://shimiyzhang.github.io/blog/React-OpenLayers-development-record</link>
