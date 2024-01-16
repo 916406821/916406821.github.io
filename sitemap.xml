@@ -1,108 +1,108 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://shimiyzhang.github.io/about</loc>
+    <loc>https://zhangshumeng.top//about</loc>
   </url>
 
   <url>
-    <loc>https://shimiyzhang.github.io</loc>
+    <loc>https://zhangshumeng.top/</loc>
   </url>
 
   <url>
-    <loc>https://shimiyzhang.github.io/notes</loc>
+    <loc>https://zhangshumeng.top//notes</loc>
   </url>
 
   <url>
-    <loc>https://shimiyzhang.github.io/projects</loc>
+    <loc>https://zhangshumeng.top//projects</loc>
   </url>
 
   <url>
-    <loc>https://shimiyzhang.github.io/tags</loc>
+    <loc>https://zhangshumeng.top//tags</loc>
   </url>
 
   <url>
-    <loc>https://shimiyzhang.github.io/tags/ant-design</loc>
+    <loc>https://zhangshumeng.top//tags/ant-design</loc>
   </url>
 
   <url>
-    <loc>https://shimiyzhang.github.io/tags/gis</loc>
+    <loc>https://zhangshumeng.top//tags/gis</loc>
   </url>
 
   <url>
-    <loc>https://shimiyzhang.github.io/tags/git</loc>
+    <loc>https://zhangshumeng.top//tags/git</loc>
   </url>
 
   <url>
-    <loc>https://shimiyzhang.github.io/tags/java</loc>
+    <loc>https://zhangshumeng.top//tags/java</loc>
   </url>
 
   <url>
-    <loc>https://shimiyzhang.github.io/tags/javascript</loc>
+    <loc>https://zhangshumeng.top//tags/javascript</loc>
   </url>
 
   <url>
-    <loc>https://shimiyzhang.github.io/tags/nextjs</loc>
+    <loc>https://zhangshumeng.top//tags/nextjs</loc>
   </url>
 
   <url>
-    <loc>https://shimiyzhang.github.io/tags/openlayers</loc>
+    <loc>https://zhangshumeng.top//tags/openlayers</loc>
   </url>
 
   <url>
-    <loc>https://shimiyzhang.github.io/tags/react</loc>
+    <loc>https://zhangshumeng.top//tags/react</loc>
   </url>
 
   <url>
-    <loc>https://shimiyzhang.github.io/tags/typescript</loc>
+    <loc>https://zhangshumeng.top//tags/typescript</loc>
   </url>
 
   <url>
-    <loc>https://shimiyzhang.github.io/tags/数据结构</loc>
-  </url>
-
-  <url>
-    <loc
-      >https://shimiyzhang.github.io/blog/Automatically-deploy-Nextjs-applications-using-Github-Actions</loc
-    >
-  </url>
-
-  <url>
-    <loc>https://shimiyzhang.github.io/blog/Characters-and-strings-in-Java</loc>
-  </url>
-
-  <url>
-    <loc>https://shimiyzhang.github.io/blog/Common-JavaScript-snippets</loc>
+    <loc>https://zhangshumeng.top//tags/数据结构</loc>
   </url>
 
   <url>
     <loc
-      >https://shimiyzhang.github.io/blog/Considerations-for-using-Ant-Design-components-during-development</loc
+      >https://zhangshumeng.top//blog/Automatically-deploy-Nextjs-applications-using-Github-Actions</loc
+    >
+  </url>
+
+  <url>
+    <loc>https://zhangshumeng.top//blog/Characters-and-strings-in-Java</loc>
+  </url>
+
+  <url>
+    <loc>https://zhangshumeng.top//blog/Common-JavaScript-snippets</loc>
+  </url>
+
+  <url>
+    <loc
+      >https://zhangshumeng.top//blog/Considerations-for-using-Ant-Design-components-during-development</loc
     >
   </url>
 
   <url>
     <loc
-      >https://shimiyzhang.github.io/blog/Construct-a-simple-polygon-from-a-known-array-of-coordinates</loc
+      >https://zhangshumeng.top//blog/Construct-a-simple-polygon-from-a-known-array-of-coordinates</loc
     >
   </url>
 
   <url>
-    <loc>https://shimiyzhang.github.io/blog/Git-Commit-message-specification</loc>
+    <loc>https://zhangshumeng.top//blog/Git-Commit-message-specification</loc>
   </url>
 
   <url>
-    <loc>https://shimiyzhang.github.io/blog/Learn-typescript-type-assertion</loc>
+    <loc>https://zhangshumeng.top//blog/Learn-typescript-type-assertion</loc>
   </url>
 
   <url>
-    <loc>https://shimiyzhang.github.io/blog/React-OpenLayers-development-record</loc>
+    <loc>https://zhangshumeng.top//blog/React-OpenLayers-development-record</loc>
   </url>
 
   <url>
-    <loc>https://shimiyzhang.github.io/blog/String-addition-special-handling</loc>
+    <loc>https://zhangshumeng.top//blog/String-addition-special-handling</loc>
   </url>
 
   <url>
-    <loc>https://shimiyzhang.github.io/blog/Traversal-method-of-binary-tree</loc>
+    <loc>https://zhangshumeng.top//blog/Traversal-method-of-binary-tree</loc>
   </url>
 </urlset>

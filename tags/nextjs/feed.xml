@@ -2,18 +2,18 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>SHIMIY</title>
-      <link>https://shimiyzhang.github.io/blog</link>
+      <link>https://zhangshumeng.top//blog</link>
       <description>庐山烟雨浙江潮，未到千般恨不消。</description>
       <language>en-us</language>
       <managingEditor>916406821@qq.com (Shimiy)</managingEditor>
       <webMaster>916406821@qq.com (Shimiy)</webMaster>
       <lastBuildDate>Sat, 25 Feb 2023 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://shimiyzhang.github.io/tags/nextjs/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://zhangshumeng.top//tags/nextjs/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://shimiyzhang.github.io/blog/Automatically-deploy-Nextjs-applications-using-Github-Actions</guid>
+    <guid>https://zhangshumeng.top//blog/Automatically-deploy-Nextjs-applications-using-Github-Actions</guid>
     <title>使用Github Actions自动打包部署NextJS应用</title>
-    <link>https://shimiyzhang.github.io/blog/Automatically-deploy-Nextjs-applications-using-Github-Actions</link>
+    <link>https://zhangshumeng.top//blog/Automatically-deploy-Nextjs-applications-using-Github-Actions</link>
     <description>打包部署博客是一个重复机械的劳动，因此我想到使用Github Actions自动化整个流程。</description>
     <pubDate>Sat, 25 Feb 2023 00:00:00 GMT</pubDate>
     <author>916406821@qq.com (Shimiy)</author>

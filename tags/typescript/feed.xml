@@ -2,18 +2,18 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>SHIMIY</title>
-      <link>https://shimiyzhang.github.io/blog</link>
+      <link>https://zhangshumeng.top//blog</link>
       <description>庐山烟雨浙江潮，未到千般恨不消。</description>
       <language>en-us</language>
       <managingEditor>916406821@qq.com (Shimiy)</managingEditor>
       <webMaster>916406821@qq.com (Shimiy)</webMaster>
       <lastBuildDate>Thu, 11 Jan 2024 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://shimiyzhang.github.io/tags/typescript/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://zhangshumeng.top//tags/typescript/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://shimiyzhang.github.io/blog/Learn-typescript-type-assertion</guid>
+    <guid>https://zhangshumeng.top//blog/Learn-typescript-type-assertion</guid>
     <title>TypeScript 的类型断言</title>
-    <link>https://shimiyzhang.github.io/blog/Learn-typescript-type-assertion</link>
+    <link>https://zhangshumeng.top//blog/Learn-typescript-type-assertion</link>
     <description>学习TypeScript类型断言的使用技巧</description>
     <pubDate>Thu, 11 Jan 2024 00:00:00 GMT</pubDate>
     <author>916406821@qq.com (Shimiy)</author>
