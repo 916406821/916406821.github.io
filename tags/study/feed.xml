@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>SHIMIY</title>
+      <link>https://zhangshumeng.top//blog</link>
+      <description>庐山烟雨浙江潮，未到千般恨不消。</description>
+      <language>en-us</language>
+      <managingEditor>916406821@qq.com (Shimiy)</managingEditor>
+      <webMaster>916406821@qq.com (Shimiy)</webMaster>
+      <lastBuildDate>Mon, 29 Jan 2024 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://zhangshumeng.top//tags/study/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://zhangshumeng.top//blog/2024-annual-study-plan</guid>
+    <title>2024年度学习计划</title>
+    <link>https://zhangshumeng.top//blog/2024-annual-study-plan</link>
+    <description>简单罗列一下2024年计划学习的库和技术</description>
+    <pubDate>Mon, 29 Jan 2024 00:00:00 GMT</pubDate>
+    <author>916406821@qq.com (Shimiy)</author>
+    <category>study</category>
+  </item>
+
+    </channel>
+  </rss>
