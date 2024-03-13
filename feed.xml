@@ -7,19 +7,9 @@
       <language>en-us</language>
       <managingEditor>916406821@qq.com (Shimiy)</managingEditor>
       <webMaster>916406821@qq.com (Shimiy)</webMaster>
-      <lastBuildDate>Mon, 29 Jan 2024 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Sat, 25 Feb 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://zhangshumeng.top//feed.xml" rel="self" type="application/rss+xml"/>
       
-  <item>
-    <guid>https://zhangshumeng.top//blog/2024-annual-study-plan</guid>
-    <title>2024年度学习计划</title>
-    <link>https://zhangshumeng.top//blog/2024-annual-study-plan</link>
-    <description>简单罗列一下2024年计划学习的库和技术</description>
-    <pubDate>Mon, 29 Jan 2024 00:00:00 GMT</pubDate>
-    <author>916406821@qq.com (Shimiy)</author>
-    <category>study</category>
-  </item>
-
   <item>
     <guid>https://zhangshumeng.top//blog/Automatically-deploy-Nextjs-applications-using-Github-Actions</guid>
     <title>使用Github Actions自动打包部署NextJS应用</title>
