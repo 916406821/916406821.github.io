@@ -20,5 +20,15 @@
     <category>Git</category><category>NextJS</category>
   </item>
 
+  <item>
+    <guid>https://zhangshumeng.top//blog/PWA-with-nextjs-app-router</guid>
+    <title>为NextJS 网站构建 PWA</title>
+    <link>https://zhangshumeng.top//blog/PWA-with-nextjs-app-router</link>
+    <description>记录为NextJS（App Router）网站构建渐进式Web应用的过程，以及使用到的第三方工具和库。</description>
+    <pubDate>Fri, 15 Mar 2024 00:00:00 GMT</pubDate>
+    <author>916406821@qq.com (Shimiy)</author>
+    <category>NextJS</category>
+  </item>
+
     </channel>
   </rss>
