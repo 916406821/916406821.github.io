@@ -2,18 +2,18 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>SHIMIY</title>
-      <link>https://zhangshumeng.top//blog</link>
+      <link>https://blog.shimiy.top//blog</link>
       <description>庐山烟雨浙江潮，未到千般恨不消。</description>
       <language>en-us</language>
       <managingEditor>916406821@qq.com (Shimiy)</managingEditor>
       <webMaster>916406821@qq.com (Shimiy)</webMaster>
       <lastBuildDate>Wed, 15 Mar 2023 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://zhangshumeng.top//tags/java/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://blog.shimiy.top//tags/java/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://zhangshumeng.top//blog/Characters-and-strings-in-Java</guid>
+    <guid>https://blog.shimiy.top//blog/Characters-and-strings-in-Java</guid>
     <title>Java中的字符和字符串</title>
-    <link>https://zhangshumeng.top//blog/Characters-and-strings-in-Java</link>
+    <link>https://blog.shimiy.top//blog/Characters-and-strings-in-Java</link>
     <description>在Java中，字符和字符串是两个不同的类型。字符类型char，字符串类型String。</description>
     <pubDate>Wed, 15 Mar 2023 00:00:00 GMT</pubDate>
     <author>916406821@qq.com (Shimiy)</author>

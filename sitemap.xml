@@ -1,112 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://zhangshumeng.top//about</loc>
+    <loc>https://blog.shimiy.top//about</loc>
   </url>
 
   <url>
-    <loc>https://zhangshumeng.top/</loc>
+    <loc>https://blog.shimiy.top/</loc>
   </url>
 
   <url>
-    <loc>https://zhangshumeng.top//notes</loc>
+    <loc>https://blog.shimiy.top//notes</loc>
   </url>
 
   <url>
-    <loc>https://zhangshumeng.top//projects</loc>
+    <loc>https://blog.shimiy.top//projects</loc>
   </url>
 
   <url>
-    <loc>https://zhangshumeng.top//tags</loc>
+    <loc>https://blog.shimiy.top//tags</loc>
   </url>
 
   <url>
-    <loc>https://zhangshumeng.top//tags/ant-design</loc>
+    <loc>https://blog.shimiy.top//tags/ant-design</loc>
   </url>
 
   <url>
-    <loc>https://zhangshumeng.top//tags/gis</loc>
+    <loc>https://blog.shimiy.top//tags/gis</loc>
   </url>
 
   <url>
-    <loc>https://zhangshumeng.top//tags/git</loc>
+    <loc>https://blog.shimiy.top//tags/git</loc>
   </url>
 
   <url>
-    <loc>https://zhangshumeng.top//tags/java</loc>
+    <loc>https://blog.shimiy.top//tags/java</loc>
   </url>
 
   <url>
-    <loc>https://zhangshumeng.top//tags/javascript</loc>
+    <loc>https://blog.shimiy.top//tags/javascript</loc>
   </url>
 
   <url>
-    <loc>https://zhangshumeng.top//tags/nextjs</loc>
+    <loc>https://blog.shimiy.top//tags/nextjs</loc>
   </url>
 
   <url>
-    <loc>https://zhangshumeng.top//tags/openlayers</loc>
+    <loc>https://blog.shimiy.top//tags/openlayers</loc>
   </url>
 
   <url>
-    <loc>https://zhangshumeng.top//tags/react</loc>
+    <loc>https://blog.shimiy.top//tags/react</loc>
   </url>
 
   <url>
-    <loc>https://zhangshumeng.top//tags/typescript</loc>
+    <loc>https://blog.shimiy.top//tags/typescript</loc>
   </url>
 
   <url>
-    <loc>https://zhangshumeng.top//tags/数据结构</loc>
-  </url>
-
-  <url>
-    <loc
-      >https://zhangshumeng.top//blog/Automatically-deploy-Nextjs-applications-using-Github-Actions</loc
-    >
-  </url>
-
-  <url>
-    <loc>https://zhangshumeng.top//blog/Characters-and-strings-in-Java</loc>
-  </url>
-
-  <url>
-    <loc>https://zhangshumeng.top//blog/Common-JavaScript-snippets</loc>
+    <loc>https://blog.shimiy.top//tags/数据结构</loc>
   </url>
 
   <url>
     <loc
-      >https://zhangshumeng.top//blog/Considerations-for-using-Ant-Design-components-during-development</loc
+      >https://blog.shimiy.top//blog/Automatically-deploy-Nextjs-applications-using-Github-Actions</loc
+    >
+  </url>
+
+  <url>
+    <loc>https://blog.shimiy.top//blog/Characters-and-strings-in-Java</loc>
+  </url>
+
+  <url>
+    <loc>https://blog.shimiy.top//blog/Common-JavaScript-snippets</loc>
+  </url>
+
+  <url>
+    <loc
+      >https://blog.shimiy.top//blog/Considerations-for-using-Ant-Design-components-during-development</loc
     >
   </url>
 
   <url>
     <loc
-      >https://zhangshumeng.top//blog/Construct-a-simple-polygon-from-a-known-array-of-coordinates</loc
+      >https://blog.shimiy.top//blog/Construct-a-simple-polygon-from-a-known-array-of-coordinates</loc
     >
   </url>
 
   <url>
-    <loc>https://zhangshumeng.top//blog/Git-Commit-message-specification</loc>
+    <loc>https://blog.shimiy.top//blog/Git-Commit-message-specification</loc>
   </url>
 
   <url>
-    <loc>https://zhangshumeng.top//blog/Learn-typescript-type-assertion</loc>
+    <loc>https://blog.shimiy.top//blog/Learn-typescript-type-assertion</loc>
   </url>
 
   <url>
-    <loc>https://zhangshumeng.top//blog/PWA-with-nextjs-app-router</loc>
+    <loc>https://blog.shimiy.top//blog/PWA-with-nextjs-app-router</loc>
   </url>
 
   <url>
-    <loc>https://zhangshumeng.top//blog/React-OpenLayers-development-record</loc>
+    <loc>https://blog.shimiy.top//blog/React-OpenLayers-development-record</loc>
   </url>
 
   <url>
-    <loc>https://zhangshumeng.top//blog/String-addition-special-handling</loc>
+    <loc>https://blog.shimiy.top//blog/String-addition-special-handling</loc>
   </url>
 
   <url>
-    <loc>https://zhangshumeng.top//blog/Traversal-method-of-binary-tree</loc>
+    <loc>https://blog.shimiy.top//blog/Traversal-method-of-binary-tree</loc>
   </url>
 </urlset>

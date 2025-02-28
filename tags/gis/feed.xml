@@ -2,18 +2,18 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>SHIMIY</title>
-      <link>https://zhangshumeng.top//blog</link>
+      <link>https://blog.shimiy.top//blog</link>
       <description>庐山烟雨浙江潮，未到千般恨不消。</description>
       <language>en-us</language>
       <managingEditor>916406821@qq.com (Shimiy)</managingEditor>
       <webMaster>916406821@qq.com (Shimiy)</webMaster>
       <lastBuildDate>Mon, 20 Feb 2023 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://zhangshumeng.top//tags/gis/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://blog.shimiy.top//tags/gis/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://zhangshumeng.top//blog/Construct-a-simple-polygon-from-a-known-array-of-coordinates</guid>
+    <guid>https://blog.shimiy.top//blog/Construct-a-simple-polygon-from-a-known-array-of-coordinates</guid>
     <title>根据已知坐标数组构造简单多边形</title>
-    <link>https://zhangshumeng.top//blog/Construct-a-simple-polygon-from-a-known-array-of-coordinates</link>
+    <link>https://blog.shimiy.top//blog/Construct-a-simple-polygon-from-a-known-array-of-coordinates</link>
     <description>给定平面中n个点所组成的集合，将它们连接起来形成一条简单的封闭路径。</description>
     <pubDate>Mon, 20 Feb 2023 00:00:00 GMT</pubDate>
     <author>916406821@qq.com (Shimiy)</author>

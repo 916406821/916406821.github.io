@@ -2,18 +2,18 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>SHIMIY</title>
-      <link>https://zhangshumeng.top//blog</link>
+      <link>https://blog.shimiy.top//blog</link>
       <description>庐山烟雨浙江潮，未到千般恨不消。</description>
       <language>en-us</language>
       <managingEditor>916406821@qq.com (Shimiy)</managingEditor>
       <webMaster>916406821@qq.com (Shimiy)</webMaster>
       <lastBuildDate>Mon, 06 Mar 2023 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://zhangshumeng.top//tags/数据结构/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://blog.shimiy.top//tags/数据结构/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://zhangshumeng.top//blog/Traversal-method-of-binary-tree</guid>
+    <guid>https://blog.shimiy.top//blog/Traversal-method-of-binary-tree</guid>
     <title>二叉树遍历算法</title>
-    <link>https://zhangshumeng.top//blog/Traversal-method-of-binary-tree</link>
+    <link>https://blog.shimiy.top//blog/Traversal-method-of-binary-tree</link>
     <description>对于二叉树，有深度遍历和广度遍历，深度遍历有前序、中序以及后序三种遍历方法，广度遍历即我们平常所说的层次遍历。</description>
     <pubDate>Mon, 06 Mar 2023 00:00:00 GMT</pubDate>
     <author>916406821@qq.com (Shimiy)</author>
